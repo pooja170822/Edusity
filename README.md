@@ -1,3 +1,3 @@
 # React + Vite
 
-I have created a college or university website. The website is completely responsive and includes features such as React smooth scroll, a slider, and a working contact form. You can receive contact form inquiries on your email address with the help of Web3Forms.
+I recently learned how to build a college or university website using React and Vite from a YouTube tutorial. The website is fully responsive and includes impressive features such as smooth scrolling in React, a slider, a pop-up video, and a functional contact form. I also used Web3Forms to seamlessly receive contact form inquiries on an email address.
